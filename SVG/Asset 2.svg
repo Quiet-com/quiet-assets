@@ -4,12 +4,16 @@
     <style>
       .cls-1 {
         fill: #f1f2f3;
-        font-family: FONTSPRINGDEMO-IntegralCFHeavyRegular, 'FONTSPRING DEMO - Integral CF Heavy';
-        font-size: 60px;
+        stroke-width: 0px;
       }
     </style>
   </defs>
   <g id="Controller">
-    <text class="cls-1" transform="translate(0 51)"><tspan x="0" y="0">MUTE</tspan></text>
+    <g>
+      <path class="cls-1" d="M1.5,9h20.6l4.45,20.25h1.2l4.45-20.25h20.6v42h-15.65v-14.15h-1.25l-2.75,14.15h-12l-2.75-14.15h-1.25v14.15H1.5V9Z"/>
+      <path class="cls-1" d="M55.8,32.15V9h16.55v22.75c0,4.2,1.6,6.9,6.2,6.9s6.35-2.7,6.35-6.9V9h16.4v23c0,14.2-7.3,20.4-22.75,20.4s-22.75-6.2-22.75-20.25Z"/>
+      <path class="cls-1" d="M149.85,22.65h-14.7v28.35h-16.4v-28.35h-14.7v-13.65h45.8v13.65Z"/>
+      <path class="cls-1" d="M152.6,9h39.5v13.05h-23.05v2.8h22.15v10.35h-22.15v2.75h23.05v13.05h-39.5V9Z"/>
+    </g>
   </g>
 </svg>
